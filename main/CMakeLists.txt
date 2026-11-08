@@ -1,0 +1,2 @@
+idf_component_register(SRCS "main.cpp" "ui/application.cpp" "display/blitter.cpp" "ui/fonts/mc_font_ui.c" "input/controls.cpp" "input/keyboard.cpp" "core/city.cpp" "storage/save.cpp" "storage/settings.cpp" "storage/assets.cpp" "network/receiver.cpp" "audio/audio.cpp" INCLUDE_DIRS "." REQUIRES m5stack_tab5 nvs_flash esp_timer fatfs mbedtls esp_http_server esp_wifi esp_netif esp_event m5_tab5_keyboard_component usb_host_hid usb)
+target_compile_features(${COMPONENT_LIB} PUBLIC cxx_std_17)

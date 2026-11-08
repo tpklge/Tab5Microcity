@@ -1,0 +1,1880 @@
+{
+  "package_id": "microcity-original",
+  "package_version": 10,
+  "schema_version": 1,
+  "runtime_format_version": 1,
+  "engine_min": 1,
+  "engine_max": 1,
+  "tile": [
+    64,
+    32
+  ],
+  "generator_version": "1.3.0",
+  "seed": 51,
+  "total_bytes": 3003324,
+  "sprite_count": 141,
+  "asset_count": 144,
+  "sprites": [
+    {
+      "id": 0,
+      "name": "grass0",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2880,
+      "length": 18432
+    },
+    {
+      "id": 1,
+      "name": "grass1",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 21312,
+      "length": 18432
+    },
+    {
+      "id": 2,
+      "name": "grass2",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 39744,
+      "length": 18432
+    },
+    {
+      "id": 10,
+      "name": "water0",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 58176,
+      "length": 18432
+    },
+    {
+      "id": 11,
+      "name": "water1",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 76608,
+      "length": 18432
+    },
+    {
+      "id": 12,
+      "name": "water2",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 95040,
+      "length": 18432
+    },
+    {
+      "id": 13,
+      "name": "water3",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 113472,
+      "length": 18432
+    },
+    {
+      "id": 14,
+      "name": "water4",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 131904,
+      "length": 18432
+    },
+    {
+      "id": 15,
+      "name": "water5",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 150336,
+      "length": 18432
+    },
+    {
+      "id": 16,
+      "name": "water6",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 168768,
+      "length": 18432
+    },
+    {
+      "id": 17,
+      "name": "water7",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 187200,
+      "length": 18432
+    },
+    {
+      "id": 18,
+      "name": "water8",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 205632,
+      "length": 18432
+    },
+    {
+      "id": 19,
+      "name": "water9",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 224064,
+      "length": 18432
+    },
+    {
+      "id": 20,
+      "name": "water10",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 242496,
+      "length": 18432
+    },
+    {
+      "id": 21,
+      "name": "water11",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 260928,
+      "length": 18432
+    },
+    {
+      "id": 22,
+      "name": "water12",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 279360,
+      "length": 18432
+    },
+    {
+      "id": 23,
+      "name": "water13",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 297792,
+      "length": 18432
+    },
+    {
+      "id": 24,
+      "name": "water14",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 316224,
+      "length": 18432
+    },
+    {
+      "id": 25,
+      "name": "water15",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 334656,
+      "length": 18432
+    },
+    {
+      "id": 30,
+      "name": "tree0",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 353088,
+      "length": 18432
+    },
+    {
+      "id": 31,
+      "name": "tree1",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 371520,
+      "length": 18432
+    },
+    {
+      "id": 32,
+      "name": "tree2",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 389952,
+      "length": 18432
+    },
+    {
+      "id": 40,
+      "name": "road0",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 408384,
+      "length": 18432
+    },
+    {
+      "id": 41,
+      "name": "road1",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 426816,
+      "length": 18432
+    },
+    {
+      "id": 42,
+      "name": "road2",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 445248,
+      "length": 18432
+    },
+    {
+      "id": 43,
+      "name": "road3",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 463680,
+      "length": 18432
+    },
+    {
+      "id": 44,
+      "name": "road4",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 482112,
+      "length": 18432
+    },
+    {
+      "id": 45,
+      "name": "road5",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 500544,
+      "length": 18432
+    },
+    {
+      "id": 46,
+      "name": "road6",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 518976,
+      "length": 18432
+    },
+    {
+      "id": 47,
+      "name": "road7",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 537408,
+      "length": 18432
+    },
+    {
+      "id": 48,
+      "name": "road8",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 555840,
+      "length": 18432
+    },
+    {
+      "id": 49,
+      "name": "road9",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 574272,
+      "length": 18432
+    },
+    {
+      "id": 50,
+      "name": "road10",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 592704,
+      "length": 18432
+    },
+    {
+      "id": 51,
+      "name": "road11",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 611136,
+      "length": 18432
+    },
+    {
+      "id": 52,
+      "name": "road12",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 629568,
+      "length": 18432
+    },
+    {
+      "id": 53,
+      "name": "road13",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 648000,
+      "length": 18432
+    },
+    {
+      "id": 54,
+      "name": "road14",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 666432,
+      "length": 18432
+    },
+    {
+      "id": 55,
+      "name": "road15",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 684864,
+      "length": 18432
+    },
+    {
+      "id": 60,
+      "name": "zoneR",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 703296,
+      "length": 18432
+    },
+    {
+      "id": 61,
+      "name": "zoneC",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 721728,
+      "length": 18432
+    },
+    {
+      "id": 62,
+      "name": "zoneI",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 740160,
+      "length": 18432
+    },
+    {
+      "id": 70,
+      "name": "R1v0",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 758592,
+      "length": 18432
+    },
+    {
+      "id": 71,
+      "name": "R1v1",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 777024,
+      "length": 18432
+    },
+    {
+      "id": 72,
+      "name": "R2v0",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 795456,
+      "length": 18432
+    },
+    {
+      "id": 73,
+      "name": "R2v1",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 813888,
+      "length": 18432
+    },
+    {
+      "id": 74,
+      "name": "R3v0",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 832320,
+      "length": 18432
+    },
+    {
+      "id": 75,
+      "name": "R3v1",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 850752,
+      "length": 18432
+    },
+    {
+      "id": 80,
+      "name": "C1v0",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 869184,
+      "length": 18432
+    },
+    {
+      "id": 81,
+      "name": "C1v1",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 887616,
+      "length": 18432
+    },
+    {
+      "id": 82,
+      "name": "C2v0",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 906048,
+      "length": 18432
+    },
+    {
+      "id": 83,
+      "name": "C2v1",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 924480,
+      "length": 18432
+    },
+    {
+      "id": 84,
+      "name": "C3v0",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 942912,
+      "length": 18432
+    },
+    {
+      "id": 85,
+      "name": "C3v1",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 961344,
+      "length": 18432
+    },
+    {
+      "id": 90,
+      "name": "I1v0",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 979776,
+      "length": 18432
+    },
+    {
+      "id": 91,
+      "name": "I1v1",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 998208,
+      "length": 18432
+    },
+    {
+      "id": 92,
+      "name": "I2v0",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1016640,
+      "length": 18432
+    },
+    {
+      "id": 93,
+      "name": "I2v1",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1035072,
+      "length": 18432
+    },
+    {
+      "id": 94,
+      "name": "I3v0",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1053504,
+      "length": 18432
+    },
+    {
+      "id": 95,
+      "name": "I3v1",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1071936,
+      "length": 18432
+    },
+    {
+      "id": 100,
+      "name": "power",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1090368,
+      "length": 18432
+    },
+    {
+      "id": 101,
+      "name": "waterworks",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1108800,
+      "length": 18432
+    },
+    {
+      "id": 102,
+      "name": "firestation",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1127232,
+      "length": 18432
+    },
+    {
+      "id": 103,
+      "name": "police",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1145664,
+      "length": 18432
+    },
+    {
+      "id": 104,
+      "name": "hospital",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1164096,
+      "length": 18432
+    },
+    {
+      "id": 105,
+      "name": "park",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1182528,
+      "length": 18432
+    },
+    {
+      "id": 110,
+      "name": "selection",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1200960,
+      "length": 18432
+    },
+    {
+      "id": 111,
+      "name": "invalid",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1219392,
+      "length": 18432
+    },
+    {
+      "id": 112,
+      "name": "abandoned",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1237824,
+      "length": 18432
+    },
+    {
+      "id": 113,
+      "name": "fire",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1256256,
+      "length": 18432
+    },
+    {
+      "id": 114,
+      "name": "built-residential",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1274688,
+      "length": 18432
+    },
+    {
+      "id": 115,
+      "name": "built-commercial",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1293120,
+      "length": 18432
+    },
+    {
+      "id": 116,
+      "name": "built-industrial",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1311552,
+      "length": 18432
+    },
+    {
+      "id": 117,
+      "name": "built-service",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1329984,
+      "length": 18432
+    },
+    {
+      "id": 120,
+      "name": "iconVia",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1348416,
+      "length": 18432
+    },
+    {
+      "id": 121,
+      "name": "iconR",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1366848,
+      "length": 18432
+    },
+    {
+      "id": 122,
+      "name": "iconC",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1385280,
+      "length": 18432
+    },
+    {
+      "id": 123,
+      "name": "iconI",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1403712,
+      "length": 18432
+    },
+    {
+      "id": 124,
+      "name": "iconEnergia",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1422144,
+      "length": 18432
+    },
+    {
+      "id": 125,
+      "name": "iconAgua",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1440576,
+      "length": 18432
+    },
+    {
+      "id": 126,
+      "name": "iconBombeiro",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1459008,
+      "length": 18432
+    },
+    {
+      "id": 127,
+      "name": "iconPolicia",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1477440,
+      "length": 18432
+    },
+    {
+      "id": 128,
+      "name": "iconSaude",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1495872,
+      "length": 18432
+    },
+    {
+      "id": 129,
+      "name": "iconParque",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1514304,
+      "length": 18432
+    },
+    {
+      "id": 130,
+      "name": "iconDemolir",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1532736,
+      "length": 18432
+    },
+    {
+      "id": 131,
+      "name": "iconConsulta",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1551168,
+      "length": 18432
+    },
+    {
+      "id": 132,
+      "name": "primary-school",
+      "width": 128,
+      "height": 192,
+      "anchor": [
+        64,
+        128
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1569600,
+      "length": 73728
+    },
+    {
+      "id": 133,
+      "name": "secondary-school",
+      "width": 128,
+      "height": 192,
+      "anchor": [
+        64,
+        128
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1643328,
+      "length": 73728
+    },
+    {
+      "id": 134,
+      "name": "university",
+      "width": 192,
+      "height": 256,
+      "anchor": [
+        96,
+        160
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1717056,
+      "length": 147456
+    },
+    {
+      "id": 135,
+      "name": "large-park",
+      "width": 128,
+      "height": 192,
+      "anchor": [
+        64,
+        128
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1864512,
+      "length": 73728
+    },
+    {
+      "id": 140,
+      "name": "avenue0",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1938240,
+      "length": 18432
+    },
+    {
+      "id": 141,
+      "name": "avenue1",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1956672,
+      "length": 18432
+    },
+    {
+      "id": 142,
+      "name": "avenue2",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1975104,
+      "length": 18432
+    },
+    {
+      "id": 143,
+      "name": "avenue3",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 1993536,
+      "length": 18432
+    },
+    {
+      "id": 144,
+      "name": "avenue4",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2011968,
+      "length": 18432
+    },
+    {
+      "id": 145,
+      "name": "avenue5",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2030400,
+      "length": 18432
+    },
+    {
+      "id": 146,
+      "name": "avenue6",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2048832,
+      "length": 18432
+    },
+    {
+      "id": 147,
+      "name": "avenue7",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2067264,
+      "length": 18432
+    },
+    {
+      "id": 148,
+      "name": "avenue8",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2085696,
+      "length": 18432
+    },
+    {
+      "id": 149,
+      "name": "avenue9",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2104128,
+      "length": 18432
+    },
+    {
+      "id": 150,
+      "name": "avenue10",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2122560,
+      "length": 18432
+    },
+    {
+      "id": 151,
+      "name": "avenue11",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2140992,
+      "length": 18432
+    },
+    {
+      "id": 152,
+      "name": "avenue12",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2159424,
+      "length": 18432
+    },
+    {
+      "id": 153,
+      "name": "avenue13",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2177856,
+      "length": 18432
+    },
+    {
+      "id": 154,
+      "name": "avenue14",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2196288,
+      "length": 18432
+    },
+    {
+      "id": 155,
+      "name": "avenue15",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2214720,
+      "length": 18432
+    },
+    {
+      "id": 156,
+      "name": "bridge0",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2233152,
+      "length": 18432
+    },
+    {
+      "id": 157,
+      "name": "bridge1",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2251584,
+      "length": 18432
+    },
+    {
+      "id": 158,
+      "name": "bridge2",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2270016,
+      "length": 18432
+    },
+    {
+      "id": 159,
+      "name": "bridge3",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2288448,
+      "length": 18432
+    },
+    {
+      "id": 160,
+      "name": "bridge4",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2306880,
+      "length": 18432
+    },
+    {
+      "id": 161,
+      "name": "bridge5",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2325312,
+      "length": 18432
+    },
+    {
+      "id": 162,
+      "name": "bridge6",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2343744,
+      "length": 18432
+    },
+    {
+      "id": 163,
+      "name": "bridge7",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2362176,
+      "length": 18432
+    },
+    {
+      "id": 164,
+      "name": "bridge8",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2380608,
+      "length": 18432
+    },
+    {
+      "id": 165,
+      "name": "bridge9",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2399040,
+      "length": 18432
+    },
+    {
+      "id": 166,
+      "name": "bridge10",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2417472,
+      "length": 18432
+    },
+    {
+      "id": 167,
+      "name": "bridge11",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2435904,
+      "length": 18432
+    },
+    {
+      "id": 168,
+      "name": "bridge12",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2454336,
+      "length": 18432
+    },
+    {
+      "id": 169,
+      "name": "bridge13",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2472768,
+      "length": 18432
+    },
+    {
+      "id": 170,
+      "name": "bridge14",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2491200,
+      "length": 18432
+    },
+    {
+      "id": 171,
+      "name": "bridge15",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2509632,
+      "length": 18432
+    },
+    {
+      "id": 172,
+      "name": "port",
+      "width": 192,
+      "height": 192,
+      "anchor": [
+        96,
+        112
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2528064,
+      "length": 110592
+    },
+    {
+      "id": 173,
+      "name": "vehicle0",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2638656,
+      "length": 18432
+    },
+    {
+      "id": 174,
+      "name": "vehicle1",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2657088,
+      "length": 18432
+    },
+    {
+      "id": 175,
+      "name": "vehicle2",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2675520,
+      "length": 18432
+    },
+    {
+      "id": 176,
+      "name": "vehicle3",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2693952,
+      "length": 18432
+    },
+    {
+      "id": 177,
+      "name": "ship0",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2712384,
+      "length": 18432
+    },
+    {
+      "id": 178,
+      "name": "ship1",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2730816,
+      "length": 18432
+    },
+    {
+      "id": 179,
+      "name": "ship2",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2749248,
+      "length": 18432
+    },
+    {
+      "id": 180,
+      "name": "built-r1",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2767680,
+      "length": 18432
+    },
+    {
+      "id": 181,
+      "name": "built-r2",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2786112,
+      "length": 18432
+    },
+    {
+      "id": 182,
+      "name": "built-r3",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2804544,
+      "length": 18432
+    },
+    {
+      "id": 183,
+      "name": "built-c1",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2822976,
+      "length": 18432
+    },
+    {
+      "id": 184,
+      "name": "built-c2",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2841408,
+      "length": 18432
+    },
+    {
+      "id": 185,
+      "name": "built-c3",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2859840,
+      "length": 18432
+    },
+    {
+      "id": 186,
+      "name": "built-i1",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2878272,
+      "length": 18432
+    },
+    {
+      "id": 187,
+      "name": "built-i2",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2896704,
+      "length": 18432
+    },
+    {
+      "id": 188,
+      "name": "built-i3",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2915136,
+      "length": 18432
+    },
+    {
+      "id": 189,
+      "name": "occupied-grid",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2933568,
+      "length": 18432
+    },
+    {
+      "id": 190,
+      "name": "disaster-storm",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2952000,
+      "length": 18432
+    },
+    {
+      "id": 191,
+      "name": "disaster-quake",
+      "width": 64,
+      "height": 96,
+      "anchor": [
+        32,
+        79
+      ],
+      "format": "RGB565LE_A8",
+      "offset": 2970432,
+      "length": 18432
+    },
+    {
+      "id": 200,
+      "name": "build",
+      "format": "PCM_S16LE_16000_MONO",
+      "offset": 2988864,
+      "length": 4800
+    },
+    {
+      "id": 201,
+      "name": "error",
+      "format": "PCM_S16LE_16000_MONO",
+      "offset": 2993664,
+      "length": 4800
+    },
+    {
+      "id": 202,
+      "name": "event",
+      "format": "PCM_S16LE_16000_MONO",
+      "offset": 2998464,
+      "length": 4800
+    }
+  ],
+  "files": [
+    {
+      "path": "microcity.mcap",
+      "size": 3003324,
+      "sha256": "a072cc8a00bcfba956ce51bd55ea4716b1bbca72a4885d9256c2454d21f328e0"
+    }
+  ]
+}

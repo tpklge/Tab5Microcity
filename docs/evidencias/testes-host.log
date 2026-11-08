@@ -1,0 +1,15 @@
+City rules, rollback, networks, growth, economy, determinism, save corruption and isometric picking: PASS
+sizeof(Cell)=9 sizeof(City)=94336 save=24655 bytes
+Firmware asset validation, interrupted slots, hash, catalog, compatibility, activation rollback and cache bound: PASS
+test_incomplete_truncated_incompatible_duplicate (test_installer.Installer.test_incomplete_truncated_incompatible_duplicate) ... ok
+test_interruption_and_space (test_installer.Installer.test_interruption_and_space) ... ok
+test_uploader_stream (test_installer.Installer.test_uploader_stream) ... ok
+test_version_switch_and_same_sprite_ids (test_installer.Installer.test_version_switch_and_same_sprite_ids) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.543s
+
+OK
+pequena-equilibrada: population=160 jobs=216 revenue=1692 expenses=209 money=31422
+media-bairros: population=400 jobs=540 revenue=4230 expenses=241 money=42293
+deficit-recuperavel: population=232 jobs=144 revenue=1692 expenses=201 money=-9
